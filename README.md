@@ -43,9 +43,11 @@ Now the user interface opens, which shows the following:
 
 💠At the bottom, there are the buttons "Start", "Stop", and "New".
 
-💠On the right side, there are four fields, each displaying a visualization of an algorithm. The array to be sorted is represented by vertical bars, which correspond to the values in the array.
+💠On the right side, there are four fields, each displaying a visualization of an algorithm.
+   The array to be sorted is represented by vertical bars, which correspond to the values in the array.
 
-💠Each field displays the name of the selected algorithm, the size of the array, the runtime, and the adjusted runtime (the actual runtime of the algorithm without interruptions for visualization).
+💠Each field displays the name of the selected algorithm, the size of the array, the runtime,
+   and the adjusted runtime (the actual runtime of the algorithm without interruptions for visualization).
 
 💠The user has the option to activate or deactivate the fields using the checkboxes.
 
@@ -53,13 +55,14 @@ Now the user interface opens, which shows the following:
 
 💠When the user clicks the "Start" button, the algorithms start sorting.
 
-💠Clicking the "Stop" button interrupts the algorithm. If the "Start" button is clicked again, the algorithm resumes from where it was interrupted.
+💠Clicking the "Stop" button interrupts the algorithm. If the "Start" button is clicked again, 
+   the algorithm resumes from where it was interrupted.
 
 💠The user can fill a sorted array with new random values by clicking the "New" button.
 
 
 
-UML Diagrams: 
+UML Diagram: 
 
 ![image](https://github.com/SheLearningCode/sorting-algorithms-visualizer-java/assets/91334629/1f1d6c2a-d540-404c-8c3e-8fb263dcb101)
 
